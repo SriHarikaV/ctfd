@@ -62,3 +62,34 @@ Configuration Steps: OAuth Client ID and Client Secret Integration
 
 
 
+
+## Instructions
+Certainly! Here's an alternative way to run CTFd using Docker Compose:
+
+1. **Install Docker and Docker Compose**: If you haven't already, install Docker and Docker Compose on your system. You can follow the official documentation for installation instructions specific to your operating system.
+
+2. **Clone CTFd Repository**: Clone the CTFd repository from GitHub to your local machine:
+
+    ```
+    git clone https://github.com/CTFd/CTFd.git
+    ```
+
+3. **Navigate to the CTFd Directory**: Move into the directory containing the cloned CTFd repository:
+
+    ```
+    cd CTFd
+    ```
+
+4. **Modify Configuration (Optional)**: If needed, make any necessary modifications to the `CTFd/config.ini` file according to your preferences.
+
+5. **Build and Run Docker Compose**: Run the following command to build and run CTFd using Docker Compose:
+
+    ```
+    docker-compose up
+    ```
+
+    This command will start the CTFd application and its dependencies specified in the `docker-compose.yml` file.
+
+6. **Access CTFd**: Once Docker Compose has finished setting up the environment, you can access CTFd by navigating to `http://localhost:8000` in your web browser.
+
+This method utilizes Docker Compose to manage the CTFd application and its dependencies, providing a simple and efficient way to run CTFd on your local machine or server.
