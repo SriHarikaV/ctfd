@@ -18,7 +18,9 @@ Installation: Dependencies, Configuration, Debugging
 
 ## 2 | Core Features Exploration 
 Challenge Management: Creating Challenges, Categories, Hints, Flags  
+
 Scoring Mechanisms: Dynamic Scoring, Unlockable Challenges 
+
 Customization: Plugin Architecture, Themes, Custom Challenges 
 
 
