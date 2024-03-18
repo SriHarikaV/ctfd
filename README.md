@@ -24,7 +24,8 @@ Customization: Plugin Architecture, Themes, Custom Challenges
 
 
 ## 3 | Advanced Features Integration 
-Flag Types: Static & Regex-based Flags, Custom Flag Plugins Hint System: Unlockable Hints, Customization Options  
+Flag Types: Static & Regex-based Flags, 
+Custom Flag Plugins Hint System: Unlockable Hints, Customization Options  
 File Uploads: Server-side & S3-compatible Backend Support 
 
 
