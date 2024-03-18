@@ -27,32 +27,42 @@ Customization: Plugin Architecture, Themes, Custom Challenges
 
 ## 3 | Advanced Features Integration 
 Flag Types: Static & Regex-based Flags, 
+
 Custom Flag Plugins Hint System: Unlockable Hints, Customization Options  
+
 File Uploads: Server-side & S3-compatible Backend Support 
 
 
 
 ## 4 | Competition Management 
 Competition Setup: Automatic Starting and Ending, Time-based Features 
+
 Team Management: Individual and Team Competitions, Team Setup  
+
 Scoring Visualization: Scoreboard, Scoregraphs, Team Progress Graphs 
 
 
 ## 5 | Administration and Configuration 
 Admin Interface: User Management, Challenge Visibility, Team Bans 
+
 Customization Options: Plugin and Theme Interfaces 
+
 Data Management: Importing and Exporting CTF Data 
 
 
 ## 6 | Deployment Options 
 Installation Guide: Dependencies, Configuration, Deployment Options 
+
 Docker Usage: Docker Images, Docker Compose 
+
 Documentation Review: Getting Started Guide, Deployment Options 
 
 
 ## 7 | Support and Community Engagement 
 Basic Support: MajorLeagueCyber Community, Discourse  
+
 Commercial Support: Contact Options for Special Projects  
+
 Managed Hosting: Explore Managed CTFd Deployments 
 
 
@@ -60,7 +70,9 @@ Managed Hosting: Explore Managed CTFd Deployments
 
 ## 8 | Integration with MajorLeagueCyber 
 Integration Overview: Benefits, Single Sign-On, Event Tracking 
+
 Registration Process: Account Creation, Event Setup 
+
 Configuration Steps: OAuth Client ID and Client Secret Integration 
 
 
